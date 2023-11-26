@@ -12,6 +12,5 @@
 | 6 | TikTok | com.ss.android.ugc.trill | [보고서](https://github.com/SwimingKim/ForensicExperimentReport/blob/master/TikTok_report_20231122_061024.pdf) |
 | 7 | Molly | im.molly.app | [보고서](https://github.com/SwimingKim/ForensicExperimentReport/blob/master/Molly_report_20231122_062313.pdf)|
 | 8 | LibreTube | com.github.libretube | [보고서](https://github.com/SwimingKim/ForensicExperimentReport/blob/master/LibreTube_report_20231122_052350.pdf) |
-| 9 | 시티즌코난 사칭앱 | com.db3ujectipqxce8groyoz5mppf8ua03lr.jxkhpv
- | [보고서](https://github.com/SwimingKim/ForensicExperimentReport/blob/master/시티즌코난사칭앱_report_20231121_134502.pdf) |
+| 9 | 시티즌코난 사칭앱 | com.db3ujectipqxce8groyoz5mppf8ua03lr.jxkhpv | [보고서](https://github.com/SwimingKim/ForensicExperimentReport/blob/master/시티즌코난사칭앱_report_20231121_134502.pdf) |
 | 10 | NH 농협은행 사칭앱 | adpjvrhh.qdliew.sptuu | [보고서](https://github.com/SwimingKim/ForensicExperimentReport/blob/master/NH농협은행사칭앱_report_20231120_163208.pdf) |
